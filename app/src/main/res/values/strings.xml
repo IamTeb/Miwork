@@ -1,0 +1,32 @@
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Miwok</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <string name="translate_to_english">English</string>
+    <string name="translate_to_venda">Venda</string>
+    <string name="apa">father</string>
+    <string name="ata">mother</string>
+    <string name="angsi">son</string>
+    <string name="tune">daughter</string>
+    <string name="taachi">older brother</string>
+    <string name="chalitti">younger brother</string>
+    <string name="tete">older sister</string>
+    <string name="kolliti">younger sister</string>
+    <string name="ama">grandmother</string>
+    <string name="paapa">grandfather</string>
+
+
+</resources>

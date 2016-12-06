@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_english"
+        android:orderInCategory="100"
+        android:title="@string/translate_to_english" />
+    <item
+        android:id="@+id/action_venda"
+        android:orderInCategory="100"
+        android:title="@string/translate_to_venda" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="ama">makhulu wa mukegulu</string>
+    <string name="angsi">mutukana</string>
+    <string name="apa">khotsi</string>
+    <string name="ata">mme</string>
+    <string name="chalitti">murathu</string>
+    <string name="kolliti">khaladzi mutuku</string>
+    <string name="paapa">makhulu wa mukalaha</string>
+    <string name="taachi">mukomana</string>
+    <string name="tete">khaladzi muhulwane</string>
+    <string name="tune">khaladzi</string>
+</resources>
